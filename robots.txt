@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lorentzDFR.github.io/sitemap.xml
+Sitemap: https://lorentzdfr.github.io/sitemap.xml
